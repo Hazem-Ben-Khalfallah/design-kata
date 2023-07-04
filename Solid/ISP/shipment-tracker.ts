@@ -2,7 +2,7 @@ class ShipmentTracker {
 
 	private products: Product[] = [];
 
-	constructor(products: Product[]): void {
+	constructor(products: Product[]) {
 		this.products = products;
 	}
 
