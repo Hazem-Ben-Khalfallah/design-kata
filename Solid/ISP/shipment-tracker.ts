@@ -16,6 +16,6 @@ class ShipmentTracker {
 		return shipmentStatuses;
 	}
 
-	// other shopping cart methods
+	// other shipment tracking methods
 
 }
